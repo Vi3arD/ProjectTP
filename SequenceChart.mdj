@@ -511,7 +511,7 @@
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "Компьютер",
+													"text": "Система",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -709,7 +709,7 @@
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "Система",
+													"text": "БД",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -3645,7 +3645,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFTkCWlbYl2XlM="
 							},
-							"name": "Компьютер",
+							"name": "Система",
 							"visibility": "public",
 							"represent": {
 								"$ref": "AAAAAAFTkCi0l4oEZb0="
@@ -3658,7 +3658,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFTkCWlbYl2XlM="
 							},
-							"name": "Система",
+							"name": "БД",
 							"visibility": "public",
 							"represent": {
 								"$ref": "AAAAAAFTkCjoUool+0k="
@@ -3698,6 +3698,7 @@
 					"visibility": "public",
 					"isStatic": false,
 					"isLeaf": false,
+					"type": "",
 					"isReadOnly": false,
 					"isOrdered": false,
 					"isUnique": false,
@@ -3715,6 +3716,7 @@
 					"visibility": "public",
 					"isStatic": false,
 					"isLeaf": false,
+					"type": "",
 					"isReadOnly": false,
 					"isOrdered": false,
 					"isUnique": false,
